@@ -1,0 +1,3 @@
+rootProject.name = 'lndReactTest'
+
+include ':app'
